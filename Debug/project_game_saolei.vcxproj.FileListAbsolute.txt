@@ -1,0 +1,2 @@
+D:\VS2019\diyige\project_game_saolei\Debug\project_game_saolei.exe
+D:\VS2019\diyige\project_game_saolei\Debug\project_game_saolei.pdb
